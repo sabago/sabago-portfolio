@@ -1,0 +1,26 @@
+{
+	"version": "2.0.0",
+	// "tasks": [
+	// 	{
+	// 		"type": "npm",
+	// 		"script": "build",
+	// 		"group": "build",
+	// 		"problemMatcher": [],
+	// 		"label": "npm: build",
+	// 		"detail": "webpack --mode production --config config/webpack.prod.js"
+	// 	}
+	// ],
+	"tasks": [
+        {
+            "type": "typescript",
+            "tsconfig": "tsconfig.json",
+            "problemMatcher": [
+                "$tsc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
