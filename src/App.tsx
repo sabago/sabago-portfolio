@@ -2,6 +2,7 @@ import * as React from 'react';
 import './App.css';
 import { slide as Menu } from 'react-burger-menu';
 import {RSidebar} from './components/rbmSidebar/index';
+import { HashRouter, Route, Switch } from "react-router-dom";
 // import Sidebar from './components/Sidebar';
 import Introduction from './components/introduction/index';
 
@@ -15,6 +16,16 @@ const items = [
 function App() {
   return (
     <div className="App">
+      {/* <div>
+      <HashRouter basename={process.env.PUBLIC_URL}>
+        <div className="App">
+        <Switch>
+          <Route exact path="/" component={Introduction} />
+          <Route exact path="/about" component={Introduction} />
+        </Switch>
+        </div>
+      </HashRouter>
+    </div> */}
       {/* <Sidebar items={items} /> */}
       < RSidebar />
           <main id="page-wrap">
