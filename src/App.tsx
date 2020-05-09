@@ -2,7 +2,7 @@ import * as React from 'react';
 import './App.css';
 import { slide as Menu } from 'react-burger-menu';
 import {RSidebar} from './components/rbmSidebar/index';
-import Sidebar from './components/Sidebar';
+// import Sidebar from './components/Sidebar';
 import Introduction from './components/introduction/index';
 
 const items = [
