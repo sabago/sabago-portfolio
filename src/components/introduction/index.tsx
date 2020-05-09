@@ -10,17 +10,17 @@ export default class Introduction extends Component {
             <Carousel.Item>
                 {/* <Carousel.Caption> */}
                 <h3>Hi! I'm Sandra</h3>
-                <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/15coSa2rnZcdywihM-pWTvoGqE65JAkxQAh6JDBNrF2Q/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                <p><a className="btn btn-primary btn-learn" href="" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                 {/* </Carousel.Caption> */}
             </Carousel.Item>
             <Carousel.Item>
                 <h3>I enjoy building THINGS!</h3>
-                <p><a className="btn btn-primary btn-learn" href="https://github.com/Dhruv34788" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
+                <p><a className="btn btn-primary btn-learn" href="https://github.com/sabago" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
              
             </Carousel.Item>
             <Carousel.Item>
                 <h3>I am a frontend engineer <br /> & aspiring fullstack engineer</h3>
-                <p><a className="btn btn-primary btn-learn" href="https://medium.com/@dhruv.barochia34788" target="_blank" rel="noopener noreferrer">View Blog <i className="icon-book" /></a></p>
+                <p><a className="btn btn-primary btn-learn" href="" target="_blank" rel="noopener noreferrer">View Blog <i className="icon-book" /></a></p>
             </Carousel.Item>
         </Carousel>
         </div>
