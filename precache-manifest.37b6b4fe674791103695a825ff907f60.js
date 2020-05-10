@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8776b1b87f7bb81b7074e26b8461df7a",
+    "revision": "e5b97b73a2f76b00ca1385f53e82e881",
     "url": "/sabago-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sabago-portfolio/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "65202f1671b0cf8bde25",
+    "revision": "2e1a41faebabe21037c4",
     "url": "/sabago-portfolio/static/css/main.ce8d5892.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sabago-portfolio/static/js/2.4b74ec65.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "65202f1671b0cf8bde25",
-    "url": "/sabago-portfolio/static/js/main.f40515ca.chunk.js"
+    "revision": "2e1a41faebabe21037c4",
+    "url": "/sabago-portfolio/static/js/main.9af833d9.chunk.js"
   },
   {
     "revision": "443be611b2809871ea19",
