@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sabago-portfolio/precache-manifest.37b6b4fe674791103695a825ff907f60.js"
+  "/sabago-portfolio/precache-manifest.723b6372f41fb41affd05ce339fb2f0e.js"
 );
 
 self.addEventListener('message', (event) => {

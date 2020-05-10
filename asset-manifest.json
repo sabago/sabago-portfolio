@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sabago-portfolio/static/css/main.ce8d5892.chunk.css",
-    "main.js": "/sabago-portfolio/static/js/main.9af833d9.chunk.js",
-    "main.js.map": "/sabago-portfolio/static/js/main.9af833d9.chunk.js.map",
+    "main.js": "/sabago-portfolio/static/js/main.6672d314.chunk.js",
+    "main.js.map": "/sabago-portfolio/static/js/main.6672d314.chunk.js.map",
     "runtime-main.js": "/sabago-portfolio/static/js/runtime-main.1b3e15f3.js",
     "runtime-main.js.map": "/sabago-portfolio/static/js/runtime-main.1b3e15f3.js.map",
     "static/css/2.de424728.chunk.css": "/sabago-portfolio/static/css/2.de424728.chunk.css",
     "static/js/2.4b74ec65.chunk.js": "/sabago-portfolio/static/js/2.4b74ec65.chunk.js",
     "static/js/2.4b74ec65.chunk.js.map": "/sabago-portfolio/static/js/2.4b74ec65.chunk.js.map",
     "index.html": "/sabago-portfolio/index.html",
-    "precache-manifest.37b6b4fe674791103695a825ff907f60.js": "/sabago-portfolio/precache-manifest.37b6b4fe674791103695a825ff907f60.js",
+    "precache-manifest.723b6372f41fb41affd05ce339fb2f0e.js": "/sabago-portfolio/precache-manifest.723b6372f41fb41affd05ce339fb2f0e.js",
     "service-worker.js": "/sabago-portfolio/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/sabago-portfolio/static/css/2.de424728.chunk.css.map",
     "static/css/main.ce8d5892.chunk.css.map": "/sabago-portfolio/static/css/main.ce8d5892.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.4b74ec65.chunk.js",
     "static/css/main.ce8d5892.chunk.css",
-    "static/js/main.9af833d9.chunk.js"
+    "static/js/main.6672d314.chunk.js"
   ]
 }
